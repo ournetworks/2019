@@ -1,4 +1,4 @@
-# 2019-MM-DD OurNetworks
+# 2019-MM-DD Our Networks Planning Call
 
 :date: **Date:** Sat, [Mon DD, 2019] @ 13:00-14:00 ET
 :raising_hand: **Participation:** [`appear.in/ournetworks`](https://appear.in/ournetworks) and [calendar](https://calendar.google.com/calendar/embed?src=aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com&ctz=America%2FToronto)
@@ -16,6 +16,6 @@
 # Notes
 
 
-# Actionable Items
+# TODOs
 
 [Move to/Update project issues from this list]
