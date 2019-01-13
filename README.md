@@ -28,3 +28,5 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 ## Organizers
 
 Our main organizing email is orga@ournetworks.ca. Organizers are:
+
+- dcwalk (gh: [@dcwalk](https://github.com/dcwalk))
