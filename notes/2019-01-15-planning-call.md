@@ -1,12 +1,12 @@
 # 2019-01-15 Our Networks Planning Call
 
-:date: **Date:** Tues, Jan 15, 2018 @ 11:30am-12:00pm
-:raising_hand: **Participation:** [`appear.in/ournetworks`](https://appear.in/ournetworks) and [calendar](https://calendar.google.com/calendar/embed?src=aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com&ctz=America%2FToronto)
+:date: **Date:** Tues, Jan 15, 2018 @ 11:30am-12:00pm  
+:raising_hand: **Participation:** [`appear.in/ournetworks`](https://appear.in/ournetworks) and [calendar](https://calendar.google.com/calendar/embed?src=aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com&ctz=America%2FToronto)  
 :family: **Attendance:**
-    - @dcwalk
-    - @benhylau
-    - @garrying
-    - @sarah
+- @dcwalk  
+- @benhylau  
+- @garrying  
+- @sarah  
 
 # Agenda
 
