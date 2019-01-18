@@ -127,6 +127,6 @@ Recall 2018 timeline:
 - [x] @dawn to do 2019 and request review
 - [ ] @sarah email radnets about 2019 timing
 - [ ] @sarah will email org team with art grant info
-- [ ] @benhylau: email dweb
+- [x] @benhylau: email dweb
 - [ ] @dawn email May First folks
 - [ ] @all: add tech infra req to gh!
