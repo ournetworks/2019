@@ -1,0 +1,67 @@
+epository:
+  # See https://developer.github.com/v3/repos/#edit for all available settings.
+
+  # The name of the repository. Changing this will rename the repository
+  name: 2019
+
+  # A short description of the repository that will show up on GitHub
+  description: Coordination for State of Our Networks 2019 😱
+  
+  # A URL with more information about the repository
+  homepage: https://ournetworks.ca/
+
+  # Either `true` to make the repository private, or `false` to make it public.
+  private: false
+
+  # Either `true` to enable issues for this repository, `false` to disable them.
+  has_issues: true
+
+  # Either `true` to enable the wiki for this repository, `false` to disable it.
+  has_wiki: false
+
+  # Either `true` to enable downloads for this repository, `false` to disable them.
+  has_downloads: true
+
+  # Updates the default branch for this repository.
+  default_branch: master
+
+  # Either `true` to allow squash-merging pull requests, or `false` to prevent
+  # squash-merging.
+  allow_squash_merge: true
+
+  # Either `true` to allow merging pull requests with a merge commit, or `false`
+  # to prevent merging pull requests with merge commits.
+  allow_merge_commit: true
+
+  # Either `true` to allow rebase-merging pull requests, or `false` to prevent
+  # rebase-merging.
+  allow_rebase_merge: true
+
+# Labels: define labels for Issues and Pull Requests
+labels:
+  - name: wont-do
+    color: 166e87
+  - name: website
+    color: 7057ff
+  - name: swag
+    color: 21ddca
+  - name: stream
+    color: 2f899e
+  - name: space
+    color: cc317c
+  - name: scheduling
+    color: 09bc7a
+  - name: post-event
+    color: afed6d
+  - name: more-work
+    color: bfdadc
+  - name: kickoff
+    color: a5c0f7
+  - name: help-wanted
+    color: a7f9d4
+  - name: conf
+    color: fce3c7
+  - name: communication
+    color: f9c0f7
+  - name: budget
+    color: ccd34e
