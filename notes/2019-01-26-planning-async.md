@@ -1,7 +1,7 @@
 # 2019-01-26 Our Networks Async Check-in
   
 :date: **Date:** Sat, Jan 26, 2018 @ async  
-:raising_hand: **Participation:** [`appear.in/ournetworks`](https://appear.in/ournetworks) and [calendar](https://calendar.google.com/calendar/embed?src=aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com&ctz=America%2FToronto)
+:raising_hand: **Participation:** [`appear.in/ournetworks`](https://appear.in/ournetworks) and [calendar](https://calendar.google.com/calendar/embed?src=aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com&ctz=America%2FToronto)  
 :notebook: **Notes:**: https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit  
 
 # Agenda
