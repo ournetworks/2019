@@ -7,7 +7,7 @@ This repository has organizing materials for the upcoming State of Our Networks,
 Tasks and deadlines are tracked using our [planning board](https://github.com/ournetworks/2019/projects/1) and [calendar](https://calendar.google.com/calendar/ical/aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com/public/basic.ics). We have a bi-weekly(ish) planning call using [appear.in/ournetworks](https://appear.in/ournetworks) during a 1 hour timeslot on **Saturdays 13:00-14:00 ET**:
 - [15 Jan, 18:30 – 20:00](./notes/2019-01-15-planning-call.md)
 - [19 Jan, 13:00 – 14:00](./notes/2019-01-19-planning-call.md)
-- 26 Jan – [Notepad](https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit)
+- [26 Jan, Async check in](./notes/2019-01-26-planning-call.md)
 - 02 Feb – [Notepad](https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit)
 - 09 Feb – 
 - 02 Mar –
