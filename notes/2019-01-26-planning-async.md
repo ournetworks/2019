@@ -21,7 +21,7 @@
 
 - We host Our Networks 2019 in Fall
   - All consensed
-- We prefer a couple weeks buffer with RadNets (so end Septemer of first week October)
+- We prefer a couple weeks buffer with RadNets (so end September of first week October)
   - All consensed
   - Comment: Prefer end of Sept date bc weather
 - We are interested in hosting a Tech and Revolution convo at Our Nets and pursue further
