@@ -12,7 +12,7 @@
   - [x] dawn: Set up theme co-writing  
 - New Business (consense on decisions): 
   - We host Our Networks 2019 in Fall
-  - We prefer a couple weeks buffer with RadNets (so end Septemer of first week October)
+  - We prefer a couple weeks buffer with RadNets (so end September of first week October)
   - We are interested in hosting a Tech and Revolution convo at Our Nets and pursue further
 
 # Notes 
