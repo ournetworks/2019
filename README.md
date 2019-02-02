@@ -46,4 +46,4 @@ _We are grateful to the [First Nations House](https://www.studentlife.utoronto.c
 
 ## Materials License
 
-<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">State of Our Networks 2018</span> content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">State of Our Networks 2019</span> content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
