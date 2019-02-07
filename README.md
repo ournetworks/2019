@@ -4,7 +4,7 @@ This repository has organizing materials for the upcoming State of Our Networks,
 
 ## Planning
 
-Tasks and deadlines are tracked using our [planning board](https://github.com/ournetworks/2019/projects/1) and [calendar](https://calendar.google.com/calendar/ical/aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com/public/basic.ics). We have a bi-weekly(ish) planning call using [appear.in/ournetworks](https://appear.in/ournetworks) during a 1 hour timeslot on **Saturdays 13:00-14:00 ET**:
+Tasks and deadlines are tracked using our [planning board](https://github.com/ournetworks/2019/projects/1) and [calendar](https://calendar.google.com/calendar/ical/aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com/public/basic.ics). We have a bi-weekly(ish) planning call using [`meet.jit.si/ournetworks`](https://meet.jit.si/ournetworks)* ~[appear.in/ournetworks](https://appear.in/ournetworks)~ during a 1 hour timeslot on **Saturdays 13:00-14:00 ET**:
 - [15 Jan, 18:30 – 20:00](./notes/2019-01-15-planning-call.md)
 - [19 Jan, 13:00 – 14:00](./notes/2019-01-19-planning-call.md)
 - [26 Jan, Async Check-in](./notes/2019-01-26-planning-async.md)
@@ -22,6 +22,7 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 - 22 Jun –
 - 29 Jun –
 
+*_Please note: We are testing out Jit.si as a replacement to Appear.in based on [02 Feb meeting](./notes/2019-02-02-planning-call.md)._
 
 ## Organizers
 
