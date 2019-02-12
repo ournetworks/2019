@@ -119,7 +119,7 @@ Recall from last week:
 ## Next call
 
 - Maybe call around arts grant?
-- March 3
+- March 2
 
 # TODOs
 
