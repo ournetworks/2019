@@ -1,6 +1,12 @@
 # State of Our Networks 2019
 
-This repository has organizing materials for the upcoming State of Our Networks, for any questions email orga@ournetworks.ca!
+This repository has organizing materials for the Our Networks **RE: Infrastructures** on **September 20-22, 2019**, for any questions email orga@ournetworks.ca!
+
+**September 19** - Load-in // Workshopping
+**September 20-22** - Conference, [Toronto Media Arts Centre](https://www.tomediaarts.org/), 32 Lisgar Street  
+**September 20-24** - Exhibition
+
+Our hashtags are #REInfrastructures, #OurNetworks, or #OurNetworks2019 (i.e., on [Twitter](https://twitter.com/search?q=%23OurNetworks&src=typd)) and we love the :control_knobs: `:control_knobs:` , :satellite: `:satellite: or :satellite_antenna:` , :loudspeaker: `:loudspeaker:` and :artificial_satellite: `:artificial_satellite:` emojis.
 
 ## Planning
 
