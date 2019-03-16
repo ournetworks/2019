@@ -16,10 +16,14 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 - 27 Apr –
 - 11 May –
 - 25 May –
-- 01 Jun –
 - 08 Jun –
 - 22 Jun –
-- 29 Jun –
+- 06 Jul –
+- 24 Aug 🎆 final month -  
+- 31 Aug - 
+- 07 Sep -
+- 14 Sep - 
+
 
 *_Please note: We are testing out Jit.si as a replacement to Appear.in based on [02 Feb meeting](./notes/2019-02-02-planning-call.md)._
 
