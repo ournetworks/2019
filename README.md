@@ -10,8 +10,8 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 - [26 Jan, Async Check-in](./notes/2019-01-26-planning-async.md)
 - [02 Feb, 13:00 – 14:00](./notes/2019-02-02-planning-call.md)
 - [09 Feb, 13:00 – 14:00](./notes/2019-02-09-planning-call.md)
-- 16 Mar – [Notepad](https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit)
-- 30 Mar –
+- [16 Mar, 13:00 – 14:00](./notes/2019-03-16-planning-call.md)
+- 30 Mar – [Notepad](https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit)
 - 13 Apr –
 - 27 Apr –
 - 11 May –
