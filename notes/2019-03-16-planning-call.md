@@ -72,7 +72,7 @@
     - amts fine: $15 stickers! $30 tote! 
     - Dawn generate paypal thing
     - updates to page: layout of tiers, tote image why?!
-- Revisting dweb publish flow
+- Revisiting dweb publish flow
     - homebase instance
     - https://hashbase.io/
     - publish flow
