@@ -61,7 +61,7 @@
 
 - Agreement back with Jennie for update, the modification to notes section:
     - Exhibition/conference installation Sep 19, 10am-6pm
-    - Exhibition open daily, Sep 20-24, 10am-6m
+    - Exhibition open daily, Sep 20-24, 10am-6pm
     - Conference Fri-Sun, Sep 20-22 (extend to Friday based on interest!)
     - Kickoff Fri Sep 20 with alcohol (format likely similar to last year)
 - Dawn to follow up this week
