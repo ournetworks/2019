@@ -93,7 +93,7 @@
 https://docs.google.com/document/d/1IGuBnd3O1CnICe8baFD8WSF9cWZjjls5-6zE8qCEDEM/edit#heading=h.ofdcikls6w3z
 - Nice to start reaching out with date and venue posted
 - CFP before official push? (align with social media push)
-- Some friendly potential sponsers in Mozilla before CFP?
+- Some friendly potential sponsors in Mozilla before CFP?
 - Possibly relevant [CIRA meetup in Toronto March 20](https://cira.ca/newsroom/events/cira-meet-toronto-0)
 
 ## Budget
