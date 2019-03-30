@@ -11,8 +11,8 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 - [02 Feb, 13:00 – 14:00](./notes/2019-02-02-planning-call.md)
 - [09 Feb, 13:00 – 14:00](./notes/2019-02-09-planning-call.md)
 - [16 Mar, 13:00 – 14:00](./notes/2019-03-16-planning-call.md)
-- 30 Mar – [Notepad](https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit)
-- 13 Apr –
+- [30 Mar, 13:00 - 14:00](./notes/2019-03-30-planning-call.md)
+- 13 Apr – [Notepad](https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit)
 - 27 Apr –
 - 11 May –
 - 25 May –
