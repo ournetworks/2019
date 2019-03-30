@@ -37,7 +37,7 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 
 ## Milestones
 
-Milestones are also on our [calendar](https://calendar.google.com/calendar/ical/aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com/public/basic.ics),
+Our current milestones for organizing are below (also on our [calendar](https://calendar.google.com/calendar/ical/aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com/public/basic.ics)):
 
 - 01/15 Kickoff call (-35) 
 - 02/15 Theme and dates announced (-31)
