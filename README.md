@@ -2,33 +2,12 @@
 
 This repository has organizing materials for the upcoming State of Our Networks, for any questions email orga@ournetworks.ca!
 
-- [Milestones](#milestones)
 - [Planning](#planning)
+- [Milestones](#milestones)
 - [Organizers](#organizers)
 - [Code of Conduct](#code-of-conduct)
 - [Statement on Acknowledgement of Traditional Land](#statement-on-acknowledgement-of-traditional-land)
 - [Materials License](#materials-license)
-
-## Milestones
-
-- 01/15 Kickoff call (-35) 
-- 02/15 Theme and dates announced (-31)
-- 03/01 Sponsorship packaged, firm budget (-29)
-- 04/06 Space booked (-24)
-- 04/22 CFP posted, website relaunch (-21)
-- 05/01 conference open hour #1 (-20)
-- 05/01 2019 website relaunch, marketing materials (-20)
-- 06/01 keynote speaker(s) (-16)
-- 06/03 conference open hour #2 (-15)
-- 06/03 Venue Walkthrough (-15)
-- 07/01 CFP closes (-11)
-- 07/14 submission decisions (-10)
-- 07/15 registration launched (-9)
-- 07/15 schedule posted (-9)
-- 09/03 conference open hour #3 (-2)
-- 09/10 Venue Walkthrough (-1)
-- 09/19 Load in (-0 weeks)
-- 09/21 Our Networks 2019 (W38)
 
 
 ## Planning
@@ -54,6 +33,30 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 - 14 Sep - 
 
 *_Please note: We are testing out Jit.si as a replacement to Appear.in based on [02 Feb meeting](./notes/2019-02-02-planning-call.md)._
+
+
+## Milestones
+
+Milestones are also on our [calendar](https://calendar.google.com/calendar/ical/aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com/public/basic.ics),
+
+- 01/15 Kickoff call (-35) 
+- 02/15 Theme and dates announced (-31)
+- 03/01 Sponsorship packaged, firm budget (-29)
+- 04/06 Space booked (-24)
+- 04/22 CFP posted, website relaunch (-21)
+- 05/01 conference open hour #1 (-20)
+- 05/01 2019 website relaunch, marketing materials (-20)
+- 06/01 keynote speaker(s) (-16)
+- 06/03 conference open hour #2 (-15)
+- 06/03 Venue Walkthrough (-15)
+- 07/01 CFP closes (-11)
+- 07/14 submission decisions (-10)
+- 07/15 registration launched (-9)
+- 07/15 schedule posted (-9)
+- 09/03 conference open hour #3 (-2)
+- 09/10 Venue Walkthrough (-1)
+- 09/19 Load in (-0 weeks)
+- 09/21 Our Networks 2019 (W38)
 
 
 ## Organizers
