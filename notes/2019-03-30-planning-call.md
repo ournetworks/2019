@@ -13,7 +13,7 @@
 
 - Old Business
     - [x] Dawn to follow up this week on venue
-    - [x] Ben to sort livestreaming with patcon for March 28 meetup <-- dc: we discussed trackin on gh issue once I followed up
+    - [x] Ben to sort livestreaming with patcon for March 28 meetup <-- dc: we discussed tracking on GH issue once I followed up
     - [x] Dawn update readme and calendar with new less tentative dates
     - [ ] Garry to tell ben about dweb publishing & automation (end-April)
     - [x] Dawn move over the p2p issue in 2018 repo
@@ -25,7 +25,7 @@
   - Run through ["Calendar Deadlines"](https://calendar.google.com/calendar/embed?src=aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com&ctz=America%2FToronto)
 - Other Business
   - Venue Update
-  - Milestone//dates
+  - Milestones/dates
   - Existing sponsor outreach + looking at sponsorship package
   - Website and Conference look and feel, aspirational vibing
   - CFP check-in
@@ -44,7 +44,7 @@
 
 ## Venue Updates
 
-- Email: Gammaspace working on Friday 
+- Email: Gamma Space working on Friday 
     - single track (open space)
     - we have the exhibition room
     - there is the gamma room 
@@ -69,7 +69,7 @@
         07/01 submission decisions (-12) 
         07/25 schedule posted (-9)
 - Shift CFP closing until July 1?
-- Fist week July block off for submission dec'ns
+- First week July block off for submission dec'ns
 - Smaller/more intentful outreach for exhibition mid-June
     - If we get one of the Arts Council grants, do outreach end of June to invite specific artists to CFP
 
@@ -78,7 +78,7 @@
 - We sold 100 last year, aim for 150 attendees this year
 - Drop RSVP chair from perk
 - ben: Hand-drawn poster or marketing retractable!
-- Outreach n April for previous sponsers
+- Outreach in April for previous sponsors
     - + Mozilla? ben connection
 
 ## Aspirational Vibes
@@ -95,7 +95,8 @@
     - donated networking things 
     - artistic work?
     - related to Ryan's thing at FreeGeek? cc. Garry?
-- use a hopes and dreams gh issue
+- use a hopes and dreams GH issue
+  - https://github.com/ournetworks/2019/issues/34
 - How to do in-kind work together
 - This is our public space, drawing on that energy
 - From our CFP: "draw on history and place to bring our fullest imaginations to this moment; and open ways to think these questions together as we build transitional forms."
