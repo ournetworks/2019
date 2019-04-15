@@ -26,8 +26,8 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 - [09 Feb, 13:00 – 14:00](./notes/2019-02-09-planning-call.md)
 - [16 Mar, 13:00 – 14:00](./notes/2019-03-16-planning-call.md)
 - [30 Mar, 13:00 - 14:00](./notes/2019-03-30-planning-call.md)
-- 13 Apr – [Notepad](https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit)
-- 27 Apr –
+- [14 Apr, 15:00 - 16:30](./notes/2019-04-14-planning-call.md)
+- 27 Apr – [Notepad](https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit)
 - 11 May –
 - 25 May –
 - 08 Jun –
@@ -49,9 +49,9 @@ Our current milestones for organizing are below (also on our [calendar](https://
 - 02/15 Theme and dates announced (-31)
 - 03/01 Sponsorship packaged, firm budget (-29)
 - 04/06 Space booked (-24)
-- 04/22 CFP posted, website relaunch (-21)
+- 04/22 CFP posted (-21)
 - 05/01 Conference open hour #1 (-20)
-- 05/01 2019 website relaunch, marketing materials (-20)
+- 06/01 2019 website relaunch, marketing materials (-16)
 - 06/01 Keynote speaker(s) (-16)
 - 06/03 Conference open hour #2 (-15)
 - 06/03 Venue walkthrough (-15)
