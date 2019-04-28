@@ -1,40 +1,37 @@
 # Sponsorship Invoice
 
-Invoices are created using: https://invoice-generator.com
+[Invoices are created using: https://invoice-generator.com]
 
 ## Logo
 
-[Attach SoON logo to invoice]
+[Attach ON logo from artwork repo to invoice]
 
 ## From
 
-c/o [OUR_NETWORKS_CONTACT_NAME]
-[OUR_NETWORKS_CONTACT_ADDRESS]
+Our Networks
+orga@ournetworks.ca
 
 ## Item
 
-Tier 1 Conference Sponsorship
+Tier X Conference Sponsorship - 2019
 
 ## Notes
 
 PAYMENT OPTIONS
-
 1. By mail with cheque
-2. Through your financial institution with EFT or wire
+2. Through your financial institution with EFT or wire, for wire forms from our financial insitution see: https://share.mayfirst.org/s/9nNnFPia89GHcod
 
-FINANCIAL INSTITUTION
+BENEFICIARY BANK (SWIFT FIELD 57)
+Alterna Savings and Credit Union Limited
+319 McRae Avenue, 1st floor
+Ottawa, ON, Canada  K1Z 0B9
+Transit No.: 00646-842
 
-Alterna Savings
-800 Bay Street
-Toronto, ON M5S 3A9
-Canada
-
-ACCOUNT INFORMATION
-
+BENEFICIARY CUSTOMER (SWIFT FIELD 59)
 Account No.: [OUR_NETWORKS_ACCOUNT_NO]
-Transit No.: 00646
-Institution No.: 842
+Member Name: Our Networks
+Member Mailing Address: [OUR_NETWORKS_CONTACT_ADDRESS]
 
-EMAIL
-
-orga@ournetworks.ca
+MAILING ADDRESS
+c/o [OUR_NETWORKS_CONTACT_NAME]
+[OUR_NETWORKS_CONTACT_ADDRESS]
