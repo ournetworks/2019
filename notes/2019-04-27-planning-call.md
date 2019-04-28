@@ -34,8 +34,7 @@
 
 # Notes
 
-- dcwalk recapped MayFirst convo:
-    - https://hackmd.io/jZM_AQDGTe-i7kM_DNOe9Q
+- dcwalk recapped MayFirst convo
 - garry recapped jam-ish sesh:
     - More a conversation
     - Notes in the vibing issue: https://github.com/ournetworks/2019/issues/34
