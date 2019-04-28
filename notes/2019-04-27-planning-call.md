@@ -30,8 +30,7 @@
     - MayFirst recap
     - Look and feel (jam sesh check-in)
     - Designer
-    - CFP check-in:
-        - https://docs.google.com/document/d/12o3Nkqy3eJGD5xqr-D_uuSy-nfsJ55jmcVTPcjjvT-I/edit?usp=sharing
+    - [CFP check-in](https://docs.google.com/document/d/12o3Nkqy3eJGD5xqr-D_uuSy-nfsJ55jmcVTPcjjvT-I/edit?usp=sharing)
 
 # Notes
 
