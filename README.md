@@ -73,6 +73,7 @@ Our main organizing email is orga@ournetworks.ca. Organizers are:
 - benhylau (gh: [@benhylau](https://github.com/benhylau))
 - sarah friend (gh: [@ana0](https://github.com/ana0))
 - garry (gh: [@garrying](https://github.com/garrying))
+- eloisa (gh: [@thinkbulecount2](https://github.com/thinkbulecount2))
 
 
 ## Code of Conduct
