@@ -6,7 +6,7 @@ This repository has organizing materials for the Our Networks **RE: Infrastructu
 **September 20-22** - Conference    
 **September 20-24** - Exhibition
 
-Our hashtags are #REInfra, #REInfrastructures, #OurNetworks, or #OurNetworks2019 (i.e., on [Twitter](https://twitter.com/search?q=%23OurNetworks&src=typd)) and we love the :control_knobs: `:control_knobs:` , :satellite: `:satellite: or :satellite_antenna:` , :loudspeaker: `:loudspeaker:` and :artificial_satellite: `:artificial_satellite:` emojis.
+Our hashtags are #REInfra, #REInfrastructures, #OurNetworks, or #OurNetworks2019 (i.e., on [Twitter](https://twitter.com/search?q=%23OurNetworks&src=typd)) and we love the :control_knobs: `:control_knobs:` , :satellite: `:satellite: or :satellite_antenna:` , :leaves: `:leaves:`, :hammer_and_wrench: `:hammer_and_wrench:`,  and :artificial_satellite: `:artificial_satellite:` emojis.
 
 - [Planning](#planning)
 - [Milestones](#milestones)
