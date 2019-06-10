@@ -2,8 +2,8 @@
 
 This repository has organizing materials for the Our Networks **RE: Infrastructures** on **September 20-22, 2019** at the [Toronto Media Arts Centre](https://www.tomediaarts.org/), 32 Lisgar Street, for any questions email orga@ournetworks.ca!
 
-**September 19** - Load-in // Workshopping  
-**September 20-22** - Conference    
+**September 19** - Load-in // Workshopping
+**September 20-22** - Conference
 **September 20-24** - Exhibition
 
 Our hashtags are #REInfra, #REInfrastructures, #OurNetworks, or #OurNetworks2019 (i.e., on [Twitter](https://twitter.com/search?q=%23OurNetworks&src=typd)) and we love the :control_knobs: `:control_knobs:` , :satellite: `:satellite: or :satellite_antenna:` , :leaves: `:leaves:`, :hammer_and_wrench: `:hammer_and_wrench:`,  and :artificial_satellite: `:artificial_satellite:` emojis.
@@ -29,14 +29,13 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 - [14 Apr, 15:00 - 16:30](./notes/2019-04-14-planning-call.md)
 - [27 Apr, 13:00 - 14:00](./notes/2019-04-27-planning-call.md)
 - [11 May, 13:00 - 14:00](./notes/2019-05-11-planning-call.md)
-- XX May – [Notepad](https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit)
-- 08 Jun –
-- 22 Jun –
+- [01 Jun, 13:00 - 14:00](./notes/2019-06-01-planning-call.md)
+- 22 Jun – [Notepad](https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit)
 - 06 Jul –
-- 24 Aug 🎆 final month -  
+- 24 Aug 🎆 final month -
 - 31 Aug - 
 - 07 Sep -
-- 14 Sep - 
+- 14 Sep -
 
 *_Please note: We are testing out Jit.si as a replacement to Appear.in based on [02 Feb meeting](./notes/2019-02-02-planning-call.md)._
 
@@ -45,7 +44,7 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 
 Our current milestones for organizing are below (also on our [calendar](https://calendar.google.com/calendar/ical/aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com/public/basic.ics)):
 
-- 01/15 Kickoff call (-35) 
+- 01/15 Kickoff call (-35)
 - 02/15 Theme and dates announced (-31)
 - 03/01 Sponsorship packaged, firm budget (-29)
 - 04/06 Space booked (-24)
