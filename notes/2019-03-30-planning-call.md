@@ -3,10 +3,10 @@
 :date: **Date:** Sat, Mar 30, 2019 @ 1:00-2:00pm  
 :raising_hand: **Participation:** [`meet.jit.si/ournetworks`](https://meet.jit.si/ournetworks) and [calendar](https://calendar.google.com/calendar/embed?src=aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com&ctz=America%2FToronto)  
 :notebook: **Notes:**: https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit  
-:family: **Attendance:**
+:family: **Attendance:**  
 - garry
 - sarah
-- dawn
+- dc
 - ben
 
 # Agenda

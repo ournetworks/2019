@@ -3,10 +3,10 @@
 :date: **Date:** Sat, Feb 02, 2018 @ 1:00-2:00pm  
 :raising_hand: **Participation:** [`appear.in/ournetworks`](https://appear.in/ournetworks) and [calendar](https://calendar.google.com/calendar/embed?src=aers7atolh0uurlfmkoki9kikg%40group.calendar.google.com&ctz=America%2FToronto)  
 :notebook: **Notes:**: https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit  
-:family: **Attendance:**
-- @garry
-- @benhylau
-- @dcwalk
+:family: **Attendance:**  
+- garry
+- benhylau
+- dcwalk
 
 
 # Agenda
@@ -136,4 +136,3 @@
 - Dawn: Pegah?
 - [x] Dawn: distrbute budget
 - [ ] Dawn: prep milestones for editing
-
