@@ -24,7 +24,7 @@ Preferred pronouns:
 
 # Recording
 
-- [ ] The presentation can be livestreamed
+- [ ] The presentation can be live streamed
 - [ ] The presentation can be recorded and posted on the Our Networks website
 
 You can see an example of the previous recorded talks at: https://ournetworks.ca/recorded-talks/
