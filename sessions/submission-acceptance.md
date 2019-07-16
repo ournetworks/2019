@@ -17,7 +17,7 @@ The form asks you to confirm presenter details, as well as recording and honorar
 
 We will launch registration along with the draft program by August 1, 2019. At that time we will have more details for presenters and special registration instructions at that time. 
 
-Many people indicated an interest in community billets, we are reaching out to people in Toronto and provide more details at registration launch. However, in the meantime we've prepared a travel page for those already thinking about accomodations: 
+Many people indicated an interest in community billets, we are reaching out to people in Toronto and provide more details at registration launch. However, in the meantime we've prepared a travel page for those already thinking about accommodations: 
 
 
 
