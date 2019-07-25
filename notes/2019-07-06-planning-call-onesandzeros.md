@@ -10,7 +10,7 @@
 
 # Agenda 
 
-- Our Networks 2019 Septerm 20-22
+- Our Networks 2019 September 20-22
 - Zine library! more than fair 
 - TMAC space for the whole weekend -- Friday through Sunday
     - sofas + plants
@@ -18,11 +18,9 @@
     - "check out" zines with printer (risograph/photocopier)
     - curated bookself
     - call for zines?
-
 We are at:
 - compiling a list of zinesters
 - modest budget to pay folks (hopefully slightly above zine price)
-
 01s interest in zines?
 - collaborative! 
 - interactions b/w vendors 
@@ -30,18 +28,14 @@ We are at:
 - balance between a zine library and a place for folks to buy zines
 - how to support vendors? thinking about those expectations
 - zinefair as established format, care with expirimenting
-
 - Interation between zine fair and library?
     - see as "bookstore" as a better format
-
 - Ettiquite of "copying" -- ask for donations and maybe redistribute to creators
     - maybe some can't be copied? Or are set price
     - Maybe someone wants to sell their zine in a specific zine?
-
 - Timeline: 
     - August 05 turn to this
     - Some sort of call out shortly after (do we use the gh issue format)
-
 - Collaboration possibilities?
     - Code of Conduct requirements from Ones and Zeros
     - Ones and Zeros and TTZ branding collaboration with Our Networks
