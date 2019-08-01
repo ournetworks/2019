@@ -33,7 +33,7 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 - [22 Jun, 13:00 - 15:00](./notes/2019-06-22-planning-call.md) 
 - [06 Jul, 11:00 - 15:00](./notes/2019-07-06-planning-call.md) 
 - [13 Jul, 13:00 - 14:00](./notes/2019-07-13-planning-call.md) 
-- 2X July - Co-work 
+- [28 Jul, 18:00 - 21:00 Co-work](./notes/2019-07-28-planning-call.md) 
 - 24 Aug 🎆 final month – [Notepad](https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit)
 - 31 Aug - 
 - 07 Sep -
