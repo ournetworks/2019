@@ -8,7 +8,7 @@ applicant:
   country: ""
   phone: ""
   email: ""
-affliation:
+affiliation:
   title: ""
   name: ""
   country: ""

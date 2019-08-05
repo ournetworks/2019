@@ -8,7 +8,7 @@ applicant:
   country: "Scotland"
   phone: "123-456-789"
   email: "anne.stein@somewhere.online"
-affliation:
+affiliation:
   title: "Sr. Analyst of Something"
   name: "Some Company"
   country: "England"
