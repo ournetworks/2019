@@ -1,0 +1,30 @@
+applicant:
+  name: "Anne Stein"
+  prefix: "Ms."
+  pronoun: "her"
+  dob: "January 1, 1980"
+  nationality: "Scottish"
+  address: "100 Some St., Some City"
+  country: "Scotland"
+  phone: "123-456-789"
+  email: "anne.stein@somewhere.online"
+affliation:
+  title: "Sr. Analyst of Something"
+  name: "Some Company"
+  country: "England"
+sponsor:
+  name: "Some Company"
+  description: "her employer"
+embassy:
+  address: "200 Other St., Other City"
+  country: "Scotland"
+  phone: "234-567-890"
+organizer:
+  name: "Benedict Lau"
+  prefix: "Mr."
+  dob: "July 1, 1980"
+  address: "400 Some Ave., Toronto"
+  country: "Canada"
+  phone: "647-123-4567"
+  email: "benedict.lau@somewhere.online"
+date: "August 4, 2019"

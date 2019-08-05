@@ -1,0 +1,30 @@
+applicant:
+  name: ""
+  prefix: ""
+  pronoun: ""
+  dob: ""
+  nationality: ""
+  address: ""
+  country: ""
+  phone: ""
+  email: ""
+affliation:
+  title: ""
+  name: ""
+  country: ""
+sponsor:
+  name: ""
+  description: ""
+embassy:
+  address: ""
+  country: ""
+  phone: ""
+organizer:
+  name: ""
+  prefix: ""
+  dob: ""
+  address: ""
+  country: ""
+  phone: ""
+  email: ""
+date: ""
