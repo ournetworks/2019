@@ -21,7 +21,6 @@ embassy:
   phone: ""
 organizer:
   name: ""
-  prefix: ""
   dob: ""
   address: ""
   country: ""
