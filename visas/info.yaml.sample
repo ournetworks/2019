@@ -23,7 +23,7 @@ organizer:
   name: "Benedict Lau"
   prefix: "Mr."
   dob: "July 1, 1980"
-  address: "400 Some Ave., Toronto"
+  address: "400 Some Ave., Toronto, ON A1B 2C3"
   country: "Canada"
   phone: "647-123-4567"
   email: "benedict.lau@somewhere.online"
