@@ -10,6 +10,13 @@ img[alt="letterhead"] {
   margin-bottom: 10px;
 }
 
+/* Signature Size */
+
+img[alt="signature"] {
+  height: 100px;
+  margin-bottom: 10px;
+}
+
 code,
 kbd,
 pre,
