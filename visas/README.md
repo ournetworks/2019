@@ -12,6 +12,6 @@ Upon receiving the information, the Organizer can do the following to generate a
 
 1. Run `npm install`
 
-1. Run `node generate.js`
+1. Run `npm run build`
 
 Find the generated PDF file with the Applicant's name and send it to the Applicant over an encrypted channel.
