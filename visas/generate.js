@@ -20,7 +20,7 @@ try {
     new Readable({read(size) {
         this.push(letter);
         this.push(null);
-    }}).pipe(pdf()).pipe(fs.createWriteStream('Our_Networks_Invitation_Letter_for_' + map['applicant.name'].replace(/ /g,'_') + '.pdf')) 
+    }}).pipe(pdf({cssPath: './pdf.css'})).pipe(fs.createWriteStream('Our_Networks_Invitation_Letter_for_' + map['applicant.name'].replace(/ /g,'_') + '.pdf')) 
 } catch (e) {
     console.log(e);
 }

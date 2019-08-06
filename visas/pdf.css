@@ -3,6 +3,13 @@ body {
     font-family: sans-serif;
 }
 
+/* Logo Size */
+
+img[alt="letterhead"] {
+  width: 150px;
+  margin-bottom: 10px;
+}
+
 code,
 kbd,
 pre,
