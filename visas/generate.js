@@ -6,7 +6,7 @@ const Readable = require('stream').Readable
 
 try {
   // Load info map
-  const info = yaml.safeLoad(fs.readFileSync('info.yaml', 'utf8'))
+  const info = yaml.safeLoad(fs.readFileSync('info.yml', 'utf8'))
   const map = flat.flatten(info)
 
   // Load markdown letter template
