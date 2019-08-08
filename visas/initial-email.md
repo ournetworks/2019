@@ -1,20 +1,39 @@
 We are happy to write a letter supporting your visa application to travel to Toronto for Our Networks.
 
-To write it, we need your:
+To write it, we need some information as printed on your travel document...
 
-- Date of birth
-- Contact information (telephone number and email)
-- Exact address
-- The purpose of the visit to Canada (if you're doing anything besides attend Our Networks)
-- The duration of the visit
-- Where you will stay in Canada and how you will pay for the stay (probably the name of your employer and job title)
-- The date when you will arrive in Canada and the date you will leave (approximately is probably fine, since we know the conference dates)
+- Full name: 
+- Name prefix: 
+- Gender pronoun: 
+- Date of birth: 
+- Nationality:
+- Address:
+- Country: 
+- Phone:
+- Email:
 
-Please feel free to use encrypted channels. I can do either:
+Your employment/affiliation...
 
-1. GPG: [OUR_NETWORKS_CONTACT_KEY_DETAILS]
-2. Matrix via encrypted chat: [OUR_NETWORKS_MATRIX_HANDLE]
-3. Signal [OUR_NETWORKS_CONTACT_NUMBER]
+- Title at institution:
+- Name of institution:
+- Country of institution:
+
+Your financial sponsor (if any)...
+
+- Name of sponsor:
+- Description of sponsor:
+
+Your travel arrangement...
+
+- The duration of visit and approximate travel dates:
+- Flight and accommodation arrangement (if available):
+- Canadian embassy for your travel visa application:
+
+To response to this email, please feel free to use encrypted channels (in order of preference):
+
+1. Signal: [OUR_NETWORKS_CONTACT_SIGNAL_NUMBER]
+2. Matrix (encrypted): [OUR_NETWORKS_CONTACT_MATRIX_HANDLE]
+3. GPG: [OUR_NETWORKS_CONTACT_GPG_KEY]
 
 Regards,
 
