@@ -1,0 +1,25 @@
+body {
+    font-size: 0.550em;
+    font-family: sans-serif;
+}
+
+/* Logo Size */
+
+img[alt="letterhead"] {
+  width: 150px;
+  margin-bottom: 10px;
+}
+
+/* Signature Size */
+
+img[alt="signature"] {
+  height: 100px;
+  margin-bottom: 10px;
+}
+
+code,
+kbd,
+pre,
+samp {
+    font-family: sans-serif;
+}
