@@ -1,6 +1,8 @@
 We are happy to write a letter supporting your visa application to travel to Toronto for Our Networks.
 
-To write it, we need some information as printed on your travel document...
+To write it, we need the following information about. 
+
+Your travel document (as printed)...
 
 - Full name: 
 - Name prefix: 
@@ -23,9 +25,9 @@ Your financial sponsor (if any)...
 - Name of sponsor:
 - Description of sponsor:
 
-Your travel arrangement...
+Your travel arrangements...
 
-- The duration of visit and approximate travel dates:
+- Duration of visit and approximate travel dates:
 - Flight and accommodation arrangement (if available):
 - Canadian embassy for your travel visa application:
 
