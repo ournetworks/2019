@@ -16,9 +16,9 @@ Mid-September we'll be in touch with further details. If anything changes and yo
 ⚐ REGISTRATION
 
 Volunteers receive complimentary admission in return for assisting during the event. 
-Please follow the link from our networks to register on Brown Paper Tickets:
+Please follow the link from our website to register on Brown Paper Tickets:
 
-https://ournetworks.ca/conference/#registration
+https://ournetworks.ca/#registration
 
 Click the "Enter a Password or Discount Code" prompt,   
 enter password: "[registration password]"
