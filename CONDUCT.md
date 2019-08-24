@@ -17,15 +17,12 @@ We expect event participants or organizers to remain mindful of, and take respon
 We do not tolerate harassment of event participants or organizers in any form. Harassment includes, but is not limited to:
 
 * verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, technical skill level
-* sexual images in public spaces
 * deliberate intimidation, stalking, following
 * harassing photography or recording
 * sustained disruption of talks or other events
 * inappropriate physical contact
-* unwelcome sexual attention
+* unwelcome sexual attention and sexual language
 * advocating for, or encouraging, any of the above behaviour
-
-Sexual language and imagery is not appropriate for Our Networks presentations and interactions. 
 
 Participants asked to stop any harassing behavior are expected to comply immediately. Participants violating these rules may be sanctioned or asked to leave, at the discretion of the organizers.
 
@@ -51,7 +48,13 @@ _These are adapted from the [Toronto Mesh Code of Conduct](https://tomesh.net/co
 
 ## Guidelines
 
-Our Networks adopted the [Toronto Mesh Code of Conduct](https://tomesh.net/code-of-conduct/) for our January 14, 2017 event, and consensed to actively use a conference-specific code of conduct on [March 31, 2018](https://github.com/ournetworks/2018/pull/33). The Code of Conduct language is in our [2018 organizing](./CONDUCT.md) repository and on our website at [ournetworks.ca/code-of-conduct/](https://ournetworks.ca/code-of-conduct).
+### History
+
+- Adopted the [Toronto Mesh Code of Conduct](https://tomesh.net/code-of-conduct/) for our January 14, 2017 event
+- Adopted by consensus a conference-specific code of conduct on [March 31, 2018](https://github.com/ournetworks/2018/pull/33) 
+- Revised by consensus how we handle sexual imagery on [August 24, 2019](https://github.com/ournetworks/2019/pull/103)
+
+The Code of Conduct language is in our [2019 organizing](./CONDUCT.md) repository and on our website at [ournetworks.ca/code-of-conduct/](https://ournetworks.ca/code-of-conduct).
 
 ### Enforcement
 
@@ -80,3 +83,12 @@ Further resources:
 
 Our `coc@ournetworks.ca` is monitored by an individual on a rotating basis, new monitors will be determined at a planning meeting once per year.
 
+#### Handling Reports
+
+The following will be in place at the event to handle reports: 
+
+- Dedicated Code of conduct lead at event
+- Encrypted chat for organizers 
+- Daily debrief for organizers to discuss code of conduct incidents
+- Orientation for volunteers about handling code of conduct 
+- Resource with enforcement guidelines and local contact numbers
