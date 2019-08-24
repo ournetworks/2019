@@ -87,8 +87,8 @@ Our `coc@ournetworks.ca` is monitored by an individual on a rotating basis, new 
 
 The following will be in place at the event to handle reports: 
 
-- Dedicated Code of conduct lead at event
+- Dedicated Code of Conduct lead at event
 - Encrypted chat for organizers 
-- Daily debrief for organizers to discuss code of conduct incidents
-- Orientation for volunteers about handling code of conduct 
+- Daily debrief for organizers to discuss Code of Conduct incidents
+- Orientation for volunteers about handling Code of Conduct 
 - Resource with enforcement guidelines and local contact numbers
