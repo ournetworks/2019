@@ -82,7 +82,6 @@ Our `coc@ournetworks.ca` is monitored by an individual on a rotating basis, new 
 
 The following will be in place at the event to handle reports: 
 
-<<<<<<< HEAD
 * dedicated Code of Conduct lead at event who monitors the coc@ email and ensures we follow the reporting handling process in a timely fashion
 * encrypted chat for organizers 
 * daily debrief for organizers to discuss Code of Conduct incidents
@@ -104,10 +103,3 @@ Resources to support each step are drawn from:
 
 - [geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)
 - [wiki.openhatch.org/OpenHatch_event_code_of_conduct/Staff_Procedures_for_Handling_Incidents](http://wiki.openhatch.org/OpenHatch_event_code_of_conduct/Staff_Procedures_for_Handling_Incidents)
-=======
-- Dedicated Code of Conduct lead at event
-- Encrypted chat for organizers 
-- Daily debrief for organizers to discuss Code of Conduct incidents
-- Orientation for volunteers about handling Code of Conduct 
-- Resource with enforcement guidelines and local contact numbers
->>>>>>> f27d1fec7c66c9317ec13cd492daad2f0cc8a842
