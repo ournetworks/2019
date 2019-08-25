@@ -50,9 +50,9 @@ _These are adapted from the [Toronto Mesh Code of Conduct](https://tomesh.net/co
 
 ### History
 
-- Adopted the [Toronto Mesh Code of Conduct](https://tomesh.net/code-of-conduct/) for our January 14, 2017 event
-- Adopted by consensus a conference-specific code of conduct on [March 31, 2018](https://github.com/ournetworks/2018/pull/33) 
-- Revised by consensus how we handle sexual imagery on [August 24, 2019](https://github.com/ournetworks/2019/pull/103)
+- adopted the [Toronto Mesh Code of Conduct](https://tomesh.net/code-of-conduct/) for our January 14, 2017 event
+- adopted by consensus a conference-specific Code of Conduct on [March 31, 2018](https://github.com/ournetworks/2018/pull/33) 
+- revised by consensus how we handle sexual imagery on [August 24, 2019](https://github.com/ournetworks/2019/pull/103)
 
 The Code of Conduct language is in our [2019 organizing](./CONDUCT.md) repository and on our website at [ournetworks.ca/code-of-conduct/](https://ournetworks.ca/code-of-conduct).
 
@@ -68,16 +68,11 @@ If someone reports harassment, ask for a written account of what happened. This 
 
 If the following information is not volunteered in a report, ask for it/include it, but do not pressure anyone:
 
-- Identifying information (name/badge number) of the participant doing the harassing
-- The behavior that was in violation
-- The approximate time of the behavior (if different than the time the report was made)
-- The circumstances surrounding the incident
-- Other people involved in the incident
-
-Further resources:
-
-- [geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)
-- [wiki.openhatch.org/OpenHatch_event_code_of_conduct/Staff_Procedures_for_Handling_Incidents](http://wiki.openhatch.org/OpenHatch_event_code_of_conduct/Staff_Procedures_for_Handling_Incidents)
+* identifying information (name/badge number) of the participant doing the harassing
+* the behavior that was in violation
+* the approximate time of the behavior (if different than the time the report was made)
+* the circumstances surrounding the incident
+* other people involved in the incident
 
 #### Email Reporting
 
@@ -87,8 +82,24 @@ Our `coc@ournetworks.ca` is monitored by an individual on a rotating basis, new 
 
 The following will be in place at the event to handle reports: 
 
-- Dedicated Code of conduct lead at event
-- Encrypted chat for organizers 
-- Daily debrief for organizers to discuss code of conduct incidents
-- Orientation for volunteers about handling code of conduct 
-- Resource with enforcement guidelines and local contact numbers
+* dedicated Code of Conduct lead at event who monitors the coc@ email and ensures we follow the reporting handling process in a timely fashion
+* encrypted chat for organizers 
+* daily debrief for organizers to discuss Code of Conduct incidents
+* orientation for volunteers about handling Code of Conduct 
+* resource with enforcement guidelines and local contact numbers
+
+The process for handling reports is roughly:
+
+* take initial response to harassment report
+* communicate with the alleged harasser about the complaint
+* have a meeting to discuss: 
+  - what happened?
+  - are we doing anything about it?
+  - who is doing those things?
+  - when are they doing them? 
+* communicate with the harasser about the response
+
+Resources to support each step are drawn from:
+
+- [geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)
+- [wiki.openhatch.org/OpenHatch_event_code_of_conduct/Staff_Procedures_for_Handling_Incidents](http://wiki.openhatch.org/OpenHatch_event_code_of_conduct/Staff_Procedures_for_Handling_Incidents)
