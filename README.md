@@ -34,7 +34,7 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 - [06 Jul, 11:00 - 15:00](./notes/2019-07-06-planning-call.md) 
 - [13 Jul, 13:00 - 14:00](./notes/2019-07-13-planning-call.md) 
 - [28 Jul, 18:00 - 21:00 Co-work](./notes/2019-07-28-planning-call.md) 
-- 24 Aug 🎆 final month – [Notepad](https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit)
+- [24 Aug 🎆 final month, 13:00 - 15:30](./notes/2019-08-24-planning-call.md)
 - 31 Aug - 
 - 07 Sep -
 - 14 Sep -
@@ -68,13 +68,25 @@ Our current milestones for organizing are below (also on our [calendar](https://
 
 ## Organizers
 
-Our main organizing email is orga@ournetworks.ca. Organizers are:
+Our main organizing email is orga@ournetworks.ca. Organizers (and their area of responsibilities) are:
 
 - dcwalk (gh: [@dcwalk](https://github.com/dcwalk))
+  - Presenters
+  - Attendee / Registration
+  - Volunteers
+  - Catering
 - benhylau (gh: [@benhylau](https://github.com/benhylau))
+  - A/V
+  - Code of Conduct
+  - Swag Production
 - sarah friend (gh: [@ana0](https://github.com/ana0))
+  - Social Media
+  - Swag
+  - Events: Kickoff, Screening, Exhibition
 - garry (gh: [@garrying](https://github.com/garrying))
+  - Design
 - eloisa (gh: [@thinkbulecount2](https://github.com/thinkbulecount2))
+  - Zine Library
 
 
 ## Code of Conduct
