@@ -35,10 +35,13 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 - [13 Jul, 13:00 - 14:00](./notes/2019-07-13-planning-call.md) 
 - [28 Jul, 18:00 - 21:00 Co-work](./notes/2019-07-28-planning-call.md) 
 - [24 Aug 🎆 final month, 13:00 - 15:30](./notes/2019-08-24-planning-call.md)
-- TBD Aug – [Notepad](https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit)
-- 31 Aug -  
-- 07 Sep -
-- 14 Sep -
+- 30 Aug, 17:00 - 18:00 – [Notepad](https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit)
+- 31 Aug, 13:00 - 15:00 Co-work  
+- 03 Sep, 17:30 - 18:00 Check-in 
+- 07 Sep, 17:00 - 18:00 HOLD Co-work as needed
+- 09 Sep, 17:00 - 19:00 Check-in
+- 12 Sep, 17:00 - 18:00 HOLD Co-work as needed
+- Sep 18, 16:30 - 18:00 Venue Walkthrough at TMAC
 
 *_Please note: We are testing out Jit.si as a replacement to Appear.in based on [02 Feb meeting](./notes/2019-02-02-planning-call.md)._
 
