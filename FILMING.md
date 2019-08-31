@@ -10,7 +10,7 @@ Main room sessions will be live streamed and video recordings will be uploaded a
 
 ## Taking photos or recording audio/video
 
-Do not photograph, video, or audio record anyone at Our Networks without their express permission, sought in advance. Before taking a photo, filming, and/or otherwise recording, organizers require that you ask everybody identifable in the picture if they agree to be photographed or filmed. 
+Do not photograph, video, or audio record anyone at Our Networks without their express permission, sought in advance. Before taking a photo, filming, and/or otherwise recording, organizers require that you ask everybody identifiable in the picture if they agree to be photographed or filmed. 
 
 The event may have one or more organizer or volunteer taking photographs and/or audio or video recordings during the event, we will publish them under a non-commercial Creative Commons license. These organizers or volunteers will respect attendees' preferences regarding photography and recordings.
 
