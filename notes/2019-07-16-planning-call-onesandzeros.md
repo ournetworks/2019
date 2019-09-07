@@ -75,11 +75,17 @@ We are at:
 - [x] Amy Wibowo (Bubblesort Zines)
 - [x] Julia Evans (Wizard Zines)
 - [x] Jason Li (Citizen Lab, Zine Coop)
-- [x] Denise Yu
+    - Can give me some copies of:
+        - Citizen Lab zine about privacy/security
+        - https://paradise-systems.com/products/special-k
+        - https://paradise-systems.com/products/ellipsis
+- [x] Denise Yu (technical zines on kubernetes, etc.)
+    - Has some leftover prints and stickers from Bit Bazaar, will give to us for free (to Garry)
 - [x] Tiny Tech Zines
 - [x] Marcos Gutierrez (Alter Mundi)
 - [x] Toronto Zine Library
 - [x] Taeyoon Choi (New York Zine Fair)
+- [ ] OCADU Zine Library?
 
 ## TODOs
 - [ ] EG to follow up with zinesters
