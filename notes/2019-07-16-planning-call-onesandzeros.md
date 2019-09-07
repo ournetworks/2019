@@ -80,3 +80,8 @@ We are at:
 - [x] Marcos Gutierrez (Alter Mundi)
 - [x] Toronto Zine Library
 - [x] Taeyoon Choi (New York Zine Fair)
+
+## TODOs
+- [ ] EG to follow up with zinesters
+- [ ] DC & SF to email TMAC re: logistics including photocopier from Gamma Space, possibly the RaspberryPi/Monitor for DAT zines/digital zines
+- [ ] Figure out what zines to print (see [this issue of zine research](https://github.com/ournetworks/2019/issues/52))
