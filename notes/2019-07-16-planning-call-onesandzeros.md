@@ -53,3 +53,30 @@ We are at:
 - [x] dc our code of conduct
 - [ ] dc/eloisa formal collaboration broached in team
 - [ ] dc/eloisa July 21 first description of collaboration description shared to phil 
+
+#  2019-09-07 
+
+## Logistics and Equipment
+- Computer terminal (Raspberry PI and monitor for DAT zines)
+    - [ ] EG to bring? Or if TMAC has
+- Shelf/Table/Sofa
+    - [ ] Ask TMAC
+- Plants
+    - [ ] Dawn to bring some
+- Photocopier (from Gamma Space)
+    - [ ] Ask TMAC
+
+## Zines
+- What has been submitted
+- What needs to be copied or printed beforehand
+- If there are any vendors interested in selling adjacent to the space? Or purely submit beforehand
+
+## People to Ask
+- [x] Amy Wibowo (Bubblesort Zines)
+- [x] Julia Evans (Wizard Zines)
+- [x] Jason Li (Citizen Lab, Zine Coop)
+- [x] Denise Yu
+- [x] Tiny Tech Zines
+- [x] Marcos Gutierrez (Alter Mundi)
+- [x] Toronto Zine Library
+- [x] Taeyoon Choi (New York Zine Fair)
