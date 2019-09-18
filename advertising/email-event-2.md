@@ -1,9 +1,11 @@
-Hard to believe Our Networks is less than one week away! We just have some quick updates for you --
+ 	Hard to believe Our Networks is TWO DAYS away! Some quick updates for you --
 
 
->> [PROTEST_BAR] WORKSHOP MATERIALS FEE 
+>> [PROTEST_BAR] WORKSHOP MATERIALS FEE
 
-For those attending Brett Ian Balogh's [Protest_Bar] workshop on Friday about creating wireless access points, embedded web servers and custom packet injectors, please note there is a materials fee of $45 USD (roughly $60 CAD) either payable in cash or xxx at the workshop on a first-come basis.
+For those interested in [Protest_Bar], Brett Ian Balogh's workshop on Friday on creating your own wireless access points, embedded web servers and custom packet injectors, please note there is a materials fee of $45 USD (roughly $60 CAD) either payable by venmo or paypal or cash at the workshop.
+
+Participants will get to take everything they make home with them and deploy it wherever they want!
 
 
 >> KEYNOTE + KICKOFF PARTY ON FRIDAY
@@ -15,7 +17,7 @@ After that we'll transition into a kickoff party with performances "On the wire"
 
 >> OUTDOOR SCREENING ON SATURDAY
 
-Saturday night we'll cap off the day with an outdoor screening in Lisgar Park (weather permitting) of video essays and exporations of the infrastructures of our contemporary digital communications 🌃. Starts just after sundown at 8:00 pm, if rain we'll keep it inside.
+Saturday night we'll cap off the day with an outdoor screening in Lisgar Park (weather permitting) of video essays and exporations of the infrastructures of our contemporary digital communications ð. Starts just after sundown at 8:00 pm, if there is rain we'll keep it inside.
 
 
 >> ZINE LIBRARY
