@@ -41,8 +41,12 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 - 07 Sep, 17:00 - 18:00 Co-work Zine Library
 - [09 Sep, 17:00 - 19:00 Check-in](./notes/2019-09-12-planning-call.md)
 - [12 Sep, 17:00 - 18:00](./notes/2019-09-12-planning-call.md)
-- 15 Sep, 15:00 - 17:30 – [Notepad](https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit)
+- [15 Sep, 15:00 - 17:30](./notes/2019-09-15-planning-call.md)
 - 18 Sep, 16:30 - 18:00 Venue Walkthrough at TMAC
+
+Post event:
+- TBA – [Notepad](https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit)
+
 
 *_Please note: We are testing out Jit.si as a replacement to Appear.in based on [02 Feb meeting](./notes/2019-02-02-planning-call.md)._
 
