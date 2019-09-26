@@ -35,3 +35,24 @@ Advertising:
   - Rabble  http://rabble.ca/events
 - Event sites - Out-of-town, topical 
   - Internet Freedom Festival  https://internetfreedomfestival.org/
+
+---
+
+- Seneca  Hans.Heim@senecacollege.ca; ict@senecacollege.ca
+- George Brown  computertechnology@georgebrown.ca 
+- outreach@ocadsu.org
+- yorku.wise@gmail.com
+- info@engsocyu.com
+- cscu@scs.ryerson.ca
+- yorkcshub@gmail.com
+- president@cssu.ca
+- bitclinic@itsayork.ca
+
+Peter Marbach <marbach@cs.toronto.edu>
+Evan Light <ELight@glendon.yorku.ca>
+
+Scholarships and free: 
+
+- FreeGeek 
+- NetSquared 
+- Victoria Barnett
