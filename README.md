@@ -45,7 +45,7 @@ Tasks and deadlines are tracked using our [planning board](https://github.com/ou
 - 18 Sep, 16:30 - 18:00 Venue Walkthrough at TMAC
 
 Post event:
-- TBA – [Notepad](https://hackmd.io/thUKLLPMQSan3mRo2d6bGA?edit)
+- [20 Oct, 17:00 - 18:30](./notes/2019-10-28-retrospective-call.md)
 
 
 *_Please note: We are testing out Jit.si as a replacement to Appear.in based on [02 Feb meeting](./notes/2019-02-02-planning-call.md)._
