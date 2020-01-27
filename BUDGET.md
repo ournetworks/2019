@@ -1,5 +1,36 @@
 # Budget
 
+## Expenses -- 2020-01-25
+
+| Category           |  Amount       | Against Projected |
+|--------------------|--------------:|------------------:|
+| Venue	             | **$3,366.13** | +$822.13          |
+| ├── Insurance      | $517.10       |                   |
+| ├── Permits	       | $249.03       |                   |
+| └── Space Rental   | $2,600.00     |                   |  
+| Accessibility 	   | **$105.00**   | -$95.00           |
+| A/V                | **$1,915.64** | +695.64           |
+| ├── Equip          | $1,579.05     |                   |
+| ├── Honoraria      | $200.00       |                   |
+| └── Web	(Infra)    | $136.59       |                   |
+| Catering           | **$3,595.54** | +$845.54          |
+| Sessions           | **$4,959.08** | +$259.08          |
+| ├── Honoraria      | $4,916.92     |                   |
+| └── Setup Supplies | $42.16        |                   |
+| Agitprop           | **$1,485.58** | -$14.42           |
+| ├── Designer 	     | $400.00       |                   |
+| ├── Printing       | $16.47        |                   |
+| ├── Swag	         | $945.43       |                   |
+| Registration       | **$166.08**   | -$33.92           |
+| Exhibition/Zine    | **$442.29**   | -$457.51          |
+| ├── Exhibition	   | $66.78        |                   |
+| └── Zine	         | $375.51       |                   |
+| Kickoff            | **$622.00**   | +$622.00          |
+| Meetup             | **$748.74**   | +$748.74          |
+| Miscellaneous incl. Parking | **$266.50** | +$266.50   |
+| **Expenses Total** | **$17,672.58** | +$3658.58   |
+
+
 ## Final Revenue -- 2019-10-01
 
 | Category                   | Amount        | Against Projected |
